@@ -2,7 +2,7 @@
 class austish:
 
     def __init__(self):
-        self.name = "Austin Quach"
+        self.email = "austinquach20@gmail.com"
         self.code = ["python", "C++", "javascript"]
         self.currentProject = "Big Bank"
 
