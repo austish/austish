@@ -1,5 +1,17 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+```python
+class austish:
+
+    def __init__(self):
+        self.name = "Austin Quach"
+        self.role = "Software Engineer"
+        self.code = ["python", "C++", "javascript"]
+
+    def greet(self):
+        print("Thanks for visiting, hope you find some of my work interesting.")
+```
+
 <!--
 **austish/austish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
