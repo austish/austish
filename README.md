@@ -3,8 +3,8 @@ class austish:
 
     def __init__(self):
         self.name = "Austin Quach"
-        self.role = "Software Engineer"
         self.code = ["python", "C++", "javascript"]
+        self.currentProject = "Big Bank"
 
     def greet(self):
         print("Thanks for visiting, hope you find some of my work interesting.")
