@@ -2,7 +2,7 @@
 class austish:
 
     def __init__(self):
-        self.code = ["python", "C++", "typescript"]
+        self.code = ["Python", "C++", "Typescript", "Javascript"]
         self.currentProject = "Big Bank"
 
     def greet(self):
