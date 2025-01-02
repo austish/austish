@@ -1,12 +1,5 @@
 ```python
-class austish:
 
-    def __init__(self):
-        self.code = ["Python", "C++", "Typescript", "Javascript"]
-        self.currentProject = "Big Bank"
-
-    def greet(self):
-        print("Thanks for visiting. I hope you find some of my work interesting.")
 ```
 
 <!--
