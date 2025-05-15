@@ -1,6 +1,4 @@
-```python
-
-```
+Currently looking for someone to join our BookSwap team. Contact if interested!
 
 <!--
 - 🔭 I’m currently working on ...
